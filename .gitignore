@@ -1,0 +1,7 @@
+# Ignore KiCad backup and temp files
+*.bak
+*.tmp
+*.bck
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*~
