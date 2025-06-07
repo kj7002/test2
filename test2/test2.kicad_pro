@@ -249,7 +249,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "test2.kicad_pro",
+    "filename": "B3.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -409,7 +409,7 @@
   },
   "sheets": [
     [
-      "a563712f-9126-4fb5-81d7-35c02d8152f9",
+      "41c3a0e2-7fbb-460a-980b-443a77388f22",
       "Root"
     ]
   ],
